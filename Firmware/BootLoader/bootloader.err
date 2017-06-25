@@ -1,0 +1,5 @@
+>>> Warning 203 "bootloader.c" Line 237(1,1): Condition always TRUE
+>>> Warning 202 "bootloader.c" Line 141(12,21): Variable never used:   next_addr
+      Memory usage:   ROM=1%      RAM=0% - 2%
+      0 Errors,  2 Warnings.
+Build Successful.

@@ -1,0 +1,32 @@
+[PROJECT]
+Target=HomeCtrlMQTT_mian.hex
+Processor_Text=PIC18F46K22
+CCSVersion=5.064
+Compiler=PCH
+[Target Data]
+FileList=HomeCtrlMQTT_mian.c
+[HomeCtrlMQTT_mian.c]
+Type=4
+[mru-list]
+1=HomeCtrlMQTT_mian.c
+
+[ProjectLog]
+Days=1
+D1=08-11-2016
+D1_L=8
+D1_L1=[81254]Project Opened.
+D1_L2=[81264]Project Closed.
+D1_L3=[81402]Project Opened.
+D1_L4=[81405]Project Closed.
+D1_L5=[81419]Project Opened.
+D1_L6=[81424]Project Closed.
+D1_L7=[81430]Project Opened.
+D1_L8=[81432]Project Closed.
+
+[Opened Files]
+1=HomeCtrlMQTT_mian.c
+t1=1
+Count=1
+[Units]
+Count=1
+1=HomeCtrlMQTT_mian (main)

@@ -1,0 +1,16 @@
+[PROJECT]
+Target=bootloader.hex
+Processor_Text=PIC18F46K22
+CCSVersion=5.064
+Compiler=PCH
+[Target Data]
+FileList=bootloader.c
+[Directories]
+Include=C:\PROGRA~1\PICC\devices\;C:\PROGRA~1\PICC\drivers\;C:\PROGRA~2\PICC\devices\;C:\PROGRA~2\PICC\drivers\
+[bootloader.c]
+Type=4
+[mru-list]
+1=bootloader.c
+[Units]
+Count=1
+1=bootloader (main)
